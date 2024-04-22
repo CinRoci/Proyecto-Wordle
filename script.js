@@ -16,7 +16,7 @@ function intentar() {
 
   if (INTENTO === palabra) {
     console.log("GANASTE!=)");
-    terminar("GANASTE!!! =)")
+    terminar("<h2>GANASTE!😀</h2>")
     return;
   }
   for (let letra in palabra) {
